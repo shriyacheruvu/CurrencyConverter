@@ -1,6 +1,6 @@
 # 💱 Currency Converter (Java Swing + ExchangeRate API)
 
-This is a desktop Currency Converter application built using Java Swing that fetches real-time exchange rates using the ExchangeRate-API. It allows users to convert between popular currencies like INR, USD, EUR, CAD, JPY, and CNY.
+A lightweight and intuitive desktop application developed with Java Swing, designed to convert currency values between major international currencies using real-time exchange rates powered by the ExchangeRate-API.
 
 ---
 
@@ -10,9 +10,21 @@ This is a desktop Currency Converter application built using Java Swing that fet
 - Real-time exchange rate fetching via HTTP
 - Error handling for invalid input and API issues
 - Fixed-size, centered, non-resizable JFrame
-- Supports: INR, USD, EUR, CAD, JPY, CNY
+  
+---
+
+## 🌍 Supported Currencies
+
+- 🇮🇳 INR (Indian Rupee)
+- 🇺🇸 USD (United States Dollar)
+- 🇪🇺 EUR (Euro)
+- 🇨🇦 CAD (Canadian Dollar)
+- 🇯🇵 JPY (Japanese Yen)
+- 🇨🇳 CNY (Chinese Yuan)
 
 ---
+
+
 
 ## 📦 Technologies Used
 
@@ -20,6 +32,10 @@ This is a desktop Currency Converter application built using Java Swing that fet
 - Java Swing (GUI)
 - HTTP Networking (`HttpURLConnection`)
 - JSON parsing with `org.json`
+
+---
+
+## 🖼 Interface Preview
 
 ---
 
