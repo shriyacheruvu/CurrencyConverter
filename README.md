@@ -28,10 +28,11 @@ A lightweight and intuitive desktop application developed with Java Swing, desig
 
 ## 📦 Technologies Used
 
-- Java (SE 8+)
+- Java SE
 - Java Swing (GUI)
-- HTTP Networking (`HttpURLConnection`)
-- JSON parsing with `org.json`
+- HTTP Networking (via `HttpURLConnection`)
+- JSON Parsing (via `org.json`)
+- External API: [ExchangeRate-API](https://www.exchangerate-api.com/)
 
 ---
 
