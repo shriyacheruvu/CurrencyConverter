@@ -37,6 +37,7 @@ A lightweight and intuitive desktop application developed with Java Swing, desig
 ---
 
 ## 🖼 Interface Preview
+![Interface Preview](interface.png)
 
 ---
 
